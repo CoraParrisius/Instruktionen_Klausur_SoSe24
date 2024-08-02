@@ -1,0 +1,103 @@
+---
+title: "Instruktionen zur Klausur"
+subtitle: "[Forschungsmethoden]{.imp} und/oder [Psychologie]{.imp}, 5. August 2024"
+footer: "Folien herunterladen: "
+format: 
+  revealjs:
+    embed-resources: true
+    controls: true
+    slide-number: true
+    logo: img/PHlogo.svg
+    theme: [dark, css/custom.scss]
+    fullscreen: true
+    auto-slide: 5000
+    loop: true
+csl: apa.csl
+---
+
+```{r hidden chunk which creates template stuff}
+#| echo: false
+
+## in terminal ########
+# quarto install extension quarto-ext/fontawesome
+# quarto install extension schochastics/academicons
+#
+
+########################
+library(fontawesome)
+library(tidyverse)
+set.seed(848265)
+
+# Change css to lecker PH green
+if(!dir.exists("img"))
+dir.create("img")
+if(!dir.exists("css"))
+dir.create("css")
+fileConn<-file("css/custom.scss")
+writeLines(c("/*-- scss:defaults --*/",
+             "$link-color: #8cd000 !default;",
+             ".imp {color: #8cd000;}",
+             #".em15 {font-size:1.5em;}",
+             ".c {text-align: right !important;}"
+             #".callout-title {background-color: #8cd000 !important;}"
+             ),
+           fileConn)
+close(fileConn)
+```
+
+## Wie läuft die Klausur ab? {.smaller}
+
+(@) Sie lassen Ihren Studierendenausweis am Eingang kontrollieren und bekommen ein Nummernkärtchen
+(@) Sie legen Ihre Taschen vorne ab (inkl. stummem oder ausgeschaltenem Smartphone)
+(@) Sie suchen sich mit den erlaubten Hilfsmittel (Laptop inkl. digitalen Notizen, analoge Notizen, Taschenrechner, Bücher, Papier, Stift) und ggf. Verpflegung einen Platz
+(@) Sie besetzen jeden zweiten Sitz in Ihrem Hörsaal (am besten in der Mitte beginnen und nach außen auffüllen)
+(@) Sie legen Nummernkärtchen und Studierendenausweis neben sich auf den Tisch
+(@) Sie schreiben sich in den für Sie zutreffenden InnovationSpace-Kurs ein
+(@) Sie rufen die [richtige]{.imp} Klausur auf
+(@) Toilettengänge sind einzeln erlaubt und werden protokolliert
+(@) Der Fairness halber bleiben Sie auf Ihrem Platz sitzen, bis die offizielle Zeit abgelaufen ist
+
+
+## Kurse für die Klausur:
+
+[PHKA]{.imp}
+
+* Hörsaal [1.013]{.imp}: [https://bit.ly/parrisius001](https://bit.ly/parrisius001){target="_blank"}
+* Hörsaal [1.103]{.imp}: [https://bit.ly/parrisius002](https://bit.ly/parrisius002){target="_blank"}
+* Hörsaal [1.113]{.imp}: [https://bit.ly/parrisius003](https://bit.ly/parrisius003){target="_blank"}
+* Hörsaal [1.203]{.imp}: [https://bit.ly/parrisius004](https://bit.ly/parrisius004){target="_blank"}
+
+[KIT]{.imp}
+
+* 10.11 Hertz-Hörsaal: [https://bit.ly/parrisius005](https://bit.ly/parrisius005){target="_blank"}
+
+## {.smaller}
+
+
+
+::: {.callout-note}
+## Was ist erlaubt?
+
+* Digitale und analoge Notizen
+* Inhalte der Vorlesung
+    * StudIP Umgebung des Kurses "Präsenz-Vorlesung: V1077 Einführung in die Grundlagen der Psychologie"
+    * InnovationSpace-Kurs "LA M2 Forschungsmethoden SoSe 24"
+* Taschenrechner (aber *nicht* graphikfähiger Taschenrechner)
+:::
+
+::: {.callout-important}
+## Was ist nicht erlaubt?
+
+* Weitere Hilfsmittel über die oben genannten hinausgehend (also: kein Google, Bing, Wikipedia, andere Webpages, ...)
+* Jede Kommunikation (z.B. mündlich, schriftlich, telefonisch, elektronisch) mit anderen Menschen oder intelligenten Agenten (z.B. ChatGPT, Siri, Alexa, ...). Lassen Sie also Mails, Chats etc. geschlossen (sonst Täuschungsversuch).
+* Ton- und Videoquellen
+* Kopfhörer
+:::
+
+::: {.callout-warning}
+## Was passiert bei einem Täuschungsversuch?
+Um keine Störungen zu verursachen, dokumentieren wir den Täuschungsversuch 'still' über ihr Nummernkärtchen und verbuchen anschließend Ihre Leistung als nicht bestanden (dieses Vorgehen ist rechtssicher).
+:::
+
+# Viel Erfolg bei der Klausur! {style="text-align: center;"}
+
