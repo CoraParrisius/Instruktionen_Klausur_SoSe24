@@ -1,7 +1,7 @@
 ---
 title: "Instruktionen zur Klausur"
-subtitle: "[Forschungsmethoden]{.imp} und/oder [Psychologie]{.imp}, 5. August 2024"
-footer: "Folien herunterladen: "
+subtitle: "[Forschungsmethoden]{.imp} und [Psychologie]{.imp}, 5. August 2024"
+footer: "Folien herunterladen: https://bit.ly/4fr6MtB"
 format: 
   revealjs:
     embed-resources: true
@@ -49,11 +49,11 @@ close(fileConn)
 
 (@) Sie lassen Ihren Studierendenausweis am Eingang kontrollieren und bekommen ein Nummernkärtchen
 (@) Sie legen Ihre Taschen vorne ab (inkl. stummem oder ausgeschaltenem Smartphone)
-(@) Sie suchen sich mit den erlaubten Hilfsmittel (Laptop inkl. digitalen Notizen, analoge Notizen, Taschenrechner, Bücher, Papier, Stift) und ggf. Verpflegung einen Platz
+(@) Sie suchen sich mit den erlaubten Hilfsmitteln (Laptop inkl. digitalen Notizen, analoge Notizen, Taschenrechner, Bücher, Papier, Stift) und ggf. Verpflegung einen Platz
 (@) Sie besetzen jeden zweiten Sitz in Ihrem Hörsaal (am besten in der Mitte beginnen und nach außen auffüllen)
 (@) Sie legen Nummernkärtchen und Studierendenausweis neben sich auf den Tisch
-(@) Sie schreiben sich in den für Sie zutreffenden InnovationSpace-Kurs ein
-(@) Sie rufen die [richtige]{.imp} Klausur auf
+(@) Sie wurden bereits in den für Sie zutreffenden InnovationSpace-Kurs eingeschrieben
+(@) Sie rufen die [richtige]{.imp} Klausur auf (bestenfalls sehen Sie sowieso nur eine)
 (@) Toilettengänge sind einzeln erlaubt und werden protokolliert
 (@) Der Fairness halber bleiben Sie auf Ihrem Platz sitzen, bis die offizielle Zeit abgelaufen ist
 
@@ -62,14 +62,11 @@ close(fileConn)
 
 [PHKA]{.imp}
 
-* Hörsaal [1.013]{.imp}: [https://bit.ly/parrisius001](https://bit.ly/parrisius001){target="_blank"}
-* Hörsaal [1.103]{.imp}: [https://bit.ly/parrisius002](https://bit.ly/parrisius002){target="_blank"}
-* Hörsaal [1.113]{.imp}: [https://bit.ly/parrisius003](https://bit.ly/parrisius003){target="_blank"}
-* Hörsaal [1.203]{.imp}: [https://bit.ly/parrisius004](https://bit.ly/parrisius004){target="_blank"}
+* Hörsaal [1.013]{.imp} und [2.B220]{.imp}: [[https://bit.ly/parrisius]{style="color:white"}[001]{.imp}](https://bit.ly/parrisius001){target="_blank"}
+* Hörsaal [1.103]{style="color:orange;"}: [[https://bit.ly/parrisius]{style="color:white"}[002]{style="color:orange"}](https://bit.ly/parrisius002){style="color:white" target="_blank"}
+* Hörsaal [1.113]{style="color:red;"} und [2.A020]{style="color:red"}: [[https://bit.ly/parrisius]{style="color:white"}[003]{style="color:red"}](https://bit.ly/parrisius003){style="color:white" target="_blank"}
+* Hörsaal [1.203]{style="color:yellow;"}: [[https://bit.ly/parrisius]{style="color:white"}[004]{style="color:yellow"}](https://bit.ly/parrisius004){target="_blank"}
 
-[KIT]{.imp}
-
-* 10.11 Hertz-Hörsaal: [https://bit.ly/parrisius005](https://bit.ly/parrisius005){target="_blank"}
 
 ## {.smaller}
 
