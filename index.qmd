@@ -62,10 +62,11 @@ close(fileConn)
 
 [PHKA]{.imp}
 
-* Hörsaal [1.013]{.imp} und [2.B220]{.imp}: [[https://bit.ly/parrisius]{style="color:white"}[001]{.imp}](https://bit.ly/parrisius001){target="_blank"}
+* Hörsaal [1.013]{.imp}: [[https://bit.ly/parrisius]{style="color:white"}[001]{.imp}](https://bit.ly/parrisius001){target="_blank"}
 * Hörsaal [1.103]{style="color:orange;"}: [[https://bit.ly/parrisius]{style="color:white"}[002]{style="color:orange"}](https://bit.ly/parrisius002){style="color:white" target="_blank"}
-* Hörsaal [1.113]{style="color:red;"} und [2.A020]{style="color:red"}: [[https://bit.ly/parrisius]{style="color:white"}[003]{style="color:red"}](https://bit.ly/parrisius003){style="color:white" target="_blank"}
+* Hörsaal [1.113]{style="color:red;"}: [[https://bit.ly/parrisius]{style="color:white"}[003]{style="color:red"}](https://bit.ly/parrisius003){style="color:white" target="_blank"}
 * Hörsaal [1.203]{style="color:yellow;"}: [[https://bit.ly/parrisius]{style="color:white"}[004]{style="color:yellow"}](https://bit.ly/parrisius004){target="_blank"}
+* Räume [2.A020]{style="color:turquoise"} und [2.B220]{style="color:turquoise"}: [[https://bit.ly/parrisius]{style="color:white"}[007]{style="color:turquoise"}](https://bit.ly/parrisius007){target="_blank"}
 
 
 ## {.smaller}
